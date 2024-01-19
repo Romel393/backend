@@ -1,0 +1,4 @@
+{
+"MONGO_ATLAS_PWD": "Team18pwd",
+"JWT_SECRET":"secret"
+}
